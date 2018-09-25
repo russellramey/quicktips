@@ -1,6 +1,6 @@
 // Get all qt-tooltips
 var tooltips = document.querySelectorAll("[data-qt]");
-// If qt-tooltip exist
+// If qt-tooltip elements exist
 if (tooltips.length > 0){
     tooltips.forEach(function (e){
 
